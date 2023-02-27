@@ -1,0 +1,13 @@
+.inventable{
+    position:absolute;
+    top:120px;
+    left:25%;
+    background-color: burlywood;
+}
+.inventable th{
+    background-color: limegreen;
+}
+.inventable td{
+    background-color: black;
+    color: aliceblue;
+}

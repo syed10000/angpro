@@ -1,0 +1,92 @@
+
+
+
+
+.form{
+background-color: darkgrey;
+height: 800px;
+margin:0%;
+padding: 0%;
+}
+form{
+    position: absolute;
+    left: 10px;
+    top: 250px;
+    width:auto;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: blueviolet;
+    padding:20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: aliceblue;
+    border: solid 2px black;
+    }
+    #btn{
+        background-color: orange;
+        padding: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-size: medium;
+    }
+   #btn:hover{
+    background-color: brown;
+   }
+   .inventable{
+    position:absolute;
+    top:120px;
+    left:25%;
+    background-color: burlywood;
+    left:480px;
+    border: solid 2px black;
+}
+.inventable th{
+    background-color: limegreen;
+}
+.inventable td{
+    background-color: black;
+    color: aliceblue;
+}
+.deletebtn{
+ background-color: red;
+ color: white;
+ border: solid 1px yellow;   
+}
+.deletebtn:hover{
+    background-color: blueviolet;
+}
+#fetchbyn{
+    background-color:greenyellow;
+    width:auto;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+#fetchbyn:hover{
+    background-color: darkturquoise;
+}
+#deleteallbtn{
+    background-color:red;
+    width:auto;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+#deleteallbtn:hover{
+    background-color:brown;
+}
+.updatebtn{
+    background-color: darkgreen;
+    color:aliceblue;
+    border: solid 1px yellowgreen;
+
+}
+#sbbtn{
+    background-color:yellowgreen;
+    color:black;
+}
